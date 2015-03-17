@@ -1,5 +1,4 @@
 <snippet>
-  <content>
 # Sarsa(lambda) and True Online Sarsa(lambda)
 
 This repository is supposed to contain a snapshot of the code used to generate the results in the paper "Title". It contains an implementation of Sarsa(lambda) and an implementation of True Online Sarsa(lambda) on the Arcade Learning Environment (Bellemare et al., 2013).
@@ -31,6 +30,4 @@ This code is not supposed to be further extended (not in this repository). It is
 
 This code is a "research code", it was not implemented to be the most readable or reusable code. Only its relevant files are being published here. If you have any doubts, please let me know.
 
-</content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
