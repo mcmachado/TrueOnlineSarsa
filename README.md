@@ -16,9 +16,11 @@ To be self-contained I added the ALE as well. The steps to install the code are 
 
 In the correct directory (src for Sarsa or research/true_online_sarsa for True Online Sarsa), run the command ./learner. It should give you the parameters to use:
 
-   -s     [REQUIRED] seed to random number generator.
-   -c     [REQUIRED] path to file with configuration info.
-   -r     [REQUIRED] path to the rom to be played by the agent.
+-s     [REQUIRED] seed to random number generator.
+
+-c     [REQUIRED] path to file with configuration info.
+
+-r     [REQUIRED] path to the rom to be played by the agent.
 
 The parameter -t is useless in this code. The file with configuration info is at conf/ (examples) while I do not have the rights to distribute the roms.
 
