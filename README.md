@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Sarsa(lambda) and True Online Sarsa(lambda)}
+  <content>
+# Sarsa(lambda) and True Online Sarsa(lambda)}
 
-This repository is supposed to contain a snapshot of the code used to generate the results in the paper <Title>. It contains an implementation of Sarsa(lambda) and an implementation of True Online Sarsa(lambda) on the Arcade Learning Environment (Bellemare et al., 2013).
+This repository is supposed to contain a snapshot of the code used to generate the results in the paper "Title". It contains an implementation of Sarsa(lambda) and an implementation of True Online Sarsa(lambda) on the Arcade Learning Environment (Bellemare et al., 2013).
 
 ## Installation
 
@@ -25,7 +25,7 @@ The parameter -t is useless in this code. The file with configuration info is at
 
 ## Contributing
 
-This code is not supposed to be further extended (not in this repository). It is an snapshot of the code used to generate the results in the paper <Title>.
+This code is not supposed to be further extended (not in this repository). It is an snapshot of the code used to generate the results in the paper "Title".
 
 ## Disclaimer
 
