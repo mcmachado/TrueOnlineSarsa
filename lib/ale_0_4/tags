@@ -1,0 +1,284 @@
+AbstractFilesystemNode	./src/emucore/FSNode.cxx	/^    : AbstractFilesystemNode()$/
+AddressingMode	./src/emucore/m6502/src/M6502.hxx	/^    enum AddressingMode $/
+AnalogPin	./src/emucore/Control.hxx	/^    enum AnalogPin$/
+AtariVox	./src/emucore/AtariVox.cxx	/^AtariVox::~AtariVox()$/
+BSPF_abs	./src/emucore/m6502/src/bspf/src/bspf.hxx	/^template<typename T> inline T BSPF_abs (T x) { ret/
+BSPF_max	./src/emucore/m6502/src/bspf/src/bspf.hxx	/^template<typename T> inline T BSPF_max (T a, T b) /
+BSPF_min	./src/emucore/m6502/src/bspf/src/bspf.hxx	/^template<typename T> inline T BSPF_min (T a, T b) /
+BoosterGrip	./src/emucore/Booster.cxx	/^BoosterGrip::~BoosterGrip()$/
+CHECK_SPACING	./src/emucore/rsynth/holmes.c	/^#define CHECK_SPACING(a,b)                        /
+COMMENT	./src/emucore/rsynth/phtoelm.c	/^#define COMMENT(s)$/
+Cartridge	./src/emucore/Cart.cxx	/^Cartridge::Cartridge()$/
+Cartridge0840	./src/emucore/Cart0840.cxx	/^Cartridge0840::~Cartridge0840()$/
+Cartridge2K	./src/emucore/Cart2K.cxx	/^Cartridge2K::~Cartridge2K()$/
+Cartridge3E	./src/emucore/Cart3E.cxx	/^Cartridge3E::~Cartridge3E()$/
+Cartridge3F	./src/emucore/Cart3F.cxx	/^Cartridge3F::~Cartridge3F()$/
+Cartridge4A50	./src/emucore/Cart4A50.cxx	/^Cartridge4A50::~Cartridge4A50()$/
+Cartridge4K	./src/emucore/Cart4K.cxx	/^Cartridge4K::~Cartridge4K()$/
+CartridgeAR	./src/emucore/CartAR.cxx	/^CartridgeAR::~CartridgeAR()$/
+CartridgeCV	./src/emucore/CartCV.cxx	/^CartridgeCV::~CartridgeCV()$/
+CartridgeE0	./src/emucore/CartE0.cxx	/^CartridgeE0::~CartridgeE0()$/
+CartridgeE7	./src/emucore/CartE7.cxx	/^CartridgeE7::~CartridgeE7()$/
+CartridgeF4	./src/emucore/CartF4.cxx	/^CartridgeF4::~CartridgeF4()$/
+CartridgeF4SC	./src/emucore/CartF4SC.cxx	/^CartridgeF4SC::~CartridgeF4SC()$/
+CartridgeF6	./src/emucore/CartF6.cxx	/^CartridgeF6::~CartridgeF6()$/
+CartridgeF6SC	./src/emucore/CartF6SC.cxx	/^CartridgeF6SC::~CartridgeF6SC()$/
+CartridgeF8SC	./src/emucore/CartF8SC.cxx	/^CartridgeF8SC::~CartridgeF8SC()$/
+CartridgeFASC	./src/emucore/CartFASC.cxx	/^CartridgeFASC::~CartridgeFASC()$/
+CartridgeFE	./src/emucore/CartFE.cxx	/^CartridgeFE::~CartridgeFE()$/
+CartridgeMB	./src/emucore/CartMB.cxx	/^CartridgeMB::~CartridgeMB()$/
+CartridgeUA	./src/emucore/CartUA.cxx	/^CartridgeUA::~CartridgeUA()$/
+Controller	./src/emucore/Control.cxx	/^Controller::~Controller()$/
+Copyright	./src/common/Array.hxx	/^\/\/ Copyright (c) 1995-2007 by Bradford W. Mott a/
+DBtoLIN	./src/emucore/rsynth/opsynth.c	/^DBtoLIN(float dB)$/
+Darray_find	./src/emucore/rsynth/darray.c	/^Darray_find(darray_t * a, unsigned int n)$/
+Device	./src/emucore/m6502/src/Device.cxx	/^Device::~Device()$/
+DigitalPin	./src/emucore/Control.hxx	/^    enum DigitalPin$/
+Driving	./src/emucore/Driving.cxx	/^Driving::~Driving()$/
+Event	./src/emucore/Event.cxx	/^Event::~Event()$/
+EventStreamer	./src/emucore/EventStreamer.cxx	/^EventStreamer::~EventStreamer()$/
+F	./src/emucore/MD5.cxx	/^#define F(x, y, z) (((x) & (y)) | ((~x) & (z)))$/
+FF	./src/emucore/MD5.cxx	/^#define FF(a, b, c, d, x, s, ac) { \\$/
+FPCHECK	./src/emucore/rsynth/opsynth.c	/^#define FPCHECK(x) do {                 \\$/
+FilesystemNode	./src/emucore/FSNode.cxx	/^FilesystemNode::FilesystemNode()$/
+G	./src/emucore/MD5.cxx	/^#define G(x, y, z) (((x) & (z)) | ((y) & (~z)))$/
+GG	./src/emucore/MD5.cxx	/^#define GG(a, b, c, d, x, s, ac) { \\$/
+H	./src/emucore/MD5.cxx	/^#define H(x, y, z) ((x) ^ (y) ^ (z))$/
+HH	./src/emucore/MD5.cxx	/^#define HH(a, b, c, d, x, s, ac) { \\$/
+HitTrapInfo	./src/emucore/m6502/src/M6502.hxx	/^    struct HitTrapInfo {$/
+I	./src/emucore/MD5.cxx	/^#define I(x, y, z) ((y) ^ ((x) | (~z)))$/
+II	./src/emucore/MD5.cxx	/^#define II(a, b, c, d, x, s, ac) { \\$/
+Jack	./src/emucore/Control.hxx	/^    enum Jack$/
+Joystick	./src/emucore/Joystick.cxx	/^Joystick::~Joystick()$/
+Keyboard	./src/emucore/Keyboard.cxx	/^Keyboard::~Keyboard()$/
+ListMode	./src/emucore/FSNode.hxx	/^    } ListMode;$/
+M6502	./src/emucore/m6502/src/M6502.cxx	/^M6502::~M6502()$/
+M6502High	./src/emucore/m6502/src/M6502Hi.cxx	/^M6502High::~M6502High()$/
+M6502Low	./src/emucore/m6502/src/M6502Low.cxx	/^M6502Low::~M6502Low()$/
+M6532	./src/emucore/M6532.cxx	/^M6532::~M6532()$/
+MD5	./src/emucore/MD5.cxx	/^string MD5(const uInt8* buffer, uInt32 length)$/
+MD5Final	./src/emucore/MD5.cxx	/^static void MD5Final(unsigned char digest[16], MD5/
+MD5Init	./src/emucore/MD5.cxx	/^static void MD5Init(MD5_CTX* context)$/
+MD5Transform	./src/emucore/MD5.cxx	/^static void MD5Transform(UINT4 state[4], const uns/
+MD5Update	./src/emucore/MD5.cxx	/^static void MD5Update(MD5_CTX* context, const unsi/
+MD5_memcpy	./src/emucore/MD5.cxx	/^static void MD5_memcpy(POINTER output, POINTER inp/
+MD5_memset	./src/emucore/MD5.cxx	/^static void MD5_memset(POINTER output, int value, /
+MRLGlueExperiment	./doc/examples/RLGlueExperiment.c	/^int main(int argc, char *argv[]) {$/
+MediaSource	./src/emucore/MediaSrc.cxx	/^MediaSource::~MediaSource()$/
+NullDevice	./src/emucore/m6502/src/NullDev.cxx	/^NullDevice::~NullDevice()$/
+OSystem	./src/emucore/OSystem.cxx	/^OSystem::~OSystem()$/
+OSystemUNIX	./src/os_dependent/OSystemUNIX.cxx	/^OSystemUNIX::~OSystemUNIX()$/
+OSystemWin32	./src/os_dependent/OSystemWin32.cxx	/^OSystemWin32::~OSystemWin32()$/
+PHONE	./src/emucore/rsynth/phones.c	/^#define PHONE(nm,br,am,ex) #nm,$/
+POSIXFilesystemNode	./src/os_dependent/FSNodePOSIX.cxx	/^POSIXFilesystemNode::POSIXFilesystemNode()$/
+PVT	./src/emucore/rsynth/opsynth.c	/^#define PVT(x) rsynth->pvt->x$/
+Paddles	./src/emucore/Paddles.cxx	/^Paddles::~Paddles()$/
+PageAccess	./src/emucore/m6502/src/System.hxx	/^    struct PageAccess$/
+Properties	./src/emucore/Props.cxx	/^Properties::Properties(const Properties& propertie/
+PropertiesSet	./src/emucore/PropsSet.cxx	/^PropertiesSet::~PropertiesSet()$/
+RES	./src/emucore/rsynth/opsynth.c	/^#define RES(x) &PVT(x),#x$/
+RGCHECK	./src/emucore/rsynth/opsynth.c	/^#define RGCHECK(x) do {							\\$/
+ROTATE_LEFT	./src/emucore/MD5.cxx	/^#define ROTATE_LEFT(x, n) (((x) << (n)) | ((x) >> /
+Random	./src/emucore/Random.cxx	/^Random::Random()$/
+RectList	./src/common/RectList.cxx	/^RectList::~RectList()$/
+RegWrite	./src/common/SoundSDL.hxx	/^    struct RegWrite$/
+ResolutionList	./src/emucore/OSystem.hxx	/^typedef Common::Array<Resolution> ResolutionList;$/
+Serializer	./src/emucore/Serializer.cxx	/^Serializer::~Serializer(void)$/
+Setting	./src/emucore/Settings.hxx	/^    struct Setting$/
+Settings	./src/emucore/Settings.cxx	/^Settings::~Settings()$/
+SettingsArray	./src/emucore/Settings.hxx	/^    typedef Common::Array<Setting> SettingsArray;$/
+SoundNull	./src/common/SoundNull.cxx	/^SoundNull::~SoundNull()$/
+SoundSDL	./src/common/SoundSDL.cxx	/^SoundSDL::~SoundSDL()$/
+SpeakJet	./src/emucore/SpeakJet.cxx	/^SpeakJet::~SpeakJet()$/
+StressDur	./src/emucore/rsynth/phtoelm.c	/^#define StressDur(e,s,l) ((e->ud + (e->du - e->ud)/
+Switches	./src/emucore/Switches.cxx	/^Switches::~Switches()$/
+System	./src/emucore/m6502/src/System.cxx	/^System::~System()$/
+TIABit	./src/emucore/TIA.hxx	/^    enum TIABit {$/
+TIASound	./src/emucore/TIASnd.cxx	/^TIASound::~TIASound()$/
+TimingInfo	./src/emucore/OSystem.hxx	/^    struct TimingInfo {$/
+TreeNode	./src/emucore/PropsSet.hxx	/^    struct TreeNode {$/
+Type	./src/emucore/Control.hxx	/^    enum Type$/
+WindowsFilesystemNode	./src/os_dependent/FSNodeWin32.cxx	/^WindowsFilesystemNode::WindowsFilesystemNode()$/
+add	./src/common/RectList.cxx	/^void RectList::add(SDL_Rect* newRect)$/
+addEvent	./src/emucore/EventStreamer.cxx	/^void EventStreamer::addEvent(int type, int value)$/
+addFile	./src/os_dependent/FSNodeWin32.cxx	/^void WindowsFilesystemNode::addFile(FSList& list, /
+agent_cleanup	./doc/examples/RLGlueAgent.c	/^void agent_cleanup() {$/
+agent_end	./doc/examples/RLGlueAgent.c	/^void agent_end(double reward) {$/
+agent_init	./doc/examples/RLGlueAgent.c	/^void agent_init(const char* task_spec)$/
+agent_message	./doc/examples/RLGlueAgent.c	/^const char* agent_message(const char* inMessage) {/
+agent_start	./doc/examples/RLGlueAgent.c	/^const action_t *agent_start(const observation_t *t/
+agent_step	./doc/examples/RLGlueAgent.c	/^const action_t *agent_step(double reward, const ob/
+antiresonator	./src/emucore/rsynth/opsynth.c	/^antiresonator(resonator_ptr r, char *name, float i/
+attach	./src/emucore/m6502/src/System.cxx	/^void System::attach(Device* device)$/
+autodetectType	./src/emucore/Cart.cxx	/^string Cartridge::autodetectType(const uInt8* imag/
+bank	./src/emucore/Cart0840.cxx	/^void Cartridge0840::bank(uInt16 bank)$/
+bankCount	./src/emucore/Cart0840.cxx	/^int Cartridge0840::bankCount()$/
+bankRAM	./src/emucore/CartE7.cxx	/^void CartridgeE7::bankRAM(uInt16 bank)$/
+catch	./src/emucore/CartAR.cxx	/^  catch(const char* msg)$/
+channels	./src/emucore/TIASnd.cxx	/^void TIASound::channels(uInt32 number)$/
+chipReady	./src/emucore/SpeakJet.cxx	/^bool SpeakJet::chipReady()$/
+clear	./src/emucore/Event.cxx	/^void Event::clear()$/
+clearBuffers	./src/emucore/TIA.cxx	/^void TIA::clearBuffers()$/
+clip	./src/emucore/SpeakJet.cxx	/^short SpeakJet::clip(long *clip_max, float input, /
+clipVolume	./src/emucore/TIASnd.cxx	/^void TIASound::clipVolume(bool clip)$/
+clockDataIn	./src/emucore/AtariVox.cxx	/^void AtariVox::clockDataIn(bool value)$/
+close	./src/emucore/Deserializer.cxx	/^void Deserializer::close(void)$/
+const_iterator	./src/common/Array.hxx	/^    typedef const T *const_iterator;$/
+createConsole	./src/emucore/OSystem.cxx	/^bool OSystem::createConsole(const string& romfile)/
+createSound	./src/emucore/OSystem.cxx	/^void OSystem::createSound()$/
+darray_append	./src/emucore/rsynth/darray.c	/^darray_append(darray_ptr p, int ch)$/
+darray_cat	./src/emucore/rsynth/darray.c	/^darray_cat(void *arg, char *s)$/
+darray_delete	./src/emucore/rsynth/darray.c	/^darray_delete(darray_t * a, unsigned int n)$/
+darray_fget	./src/emucore/rsynth/darray.c	/^darray_fget(FILE * f, darray_ptr p)$/
+darray_float	./src/emucore/rsynth/darray.c	/^darray_float(darray_ptr f0, float f)$/
+darray_free	./src/emucore/rsynth/darray.c	/^darray_free(darray_t * a)$/
+darray_short	./src/emucore/rsynth/darray.c	/^darray_short(darray_ptr f0, short f)$/
+decRefCount	./src/emucore/FSNode.cxx	/^void FilesystemNode::decRefCount()$/
+decline_f0	./src/emucore/rsynth/phtoelm.c	/^decline_f0(float F0Hz, darray_ptr f0, float f, uns/
+deleteConsole	./src/emucore/OSystem.cxx	/^void OSystem::deleteConsole()$/
+dirExists	./src/os_dependent/FSNodePOSIX.cxx	/^bool AbstractFilesystemNode::dirExists(const strin/
+disassemble	./src/emucore/m6502/src/M6502.cxx	/^\/\/ disassemble() method will use this to figure /
+enter	./src/emucore/rsynth/phtoelm.c	/^enter(char *p, ...)$/
+enter_phonemes	./src/emucore/rsynth/phtoelm.c	/^enter_phonemes(void)$/
+enter_trans	./src/emucore/rsynth/phtoelm.c	/^enter_trans(char *trans, int verbose)$/
+execute	./src/emucore/m6502/src/M6502Hi.cxx	/^bool M6502High::execute(uInt32 number)$/
+fileExists	./src/os_dependent/FSNodePOSIX.cxx	/^bool AbstractFilesystemNode::fileExists(const stri/
+file_in_zip_read_info_s	./src/emucore/unzip.c	/^} file_in_zip_read_info_s;$/
+filter	./src/emucore/rsynth/holmes.c	/^filter(filter_ptr p, float v)$/
+filter_ptr	./src/emucore/rsynth/holmes.c	/^} filter_t, *filter_ptr;$/
+find_elm	./src/emucore/rsynth/phtoelm.c	/^find_elm(char *s)$/
+flush_samples	./src/emucore/SpeakJet.cxx	/^void *SpeakJet::flush_samples(void *user_data,$/
+gen_noise	./src/emucore/rsynth/opsynth.c	/^gen_noise(rsynth_t * rsynth)$/
+gen_voice	./src/emucore/rsynth/opsynth.c	/^gen_voice(rsynth_t * rsynth, float noise)$/
+get	./src/emucore/Event.cxx	/^Int32 Event::get(Type type) const$/
+getBool	./src/emucore/Deserializer.cxx	/^bool Deserializer::getBool(void)$/
+getImage	./src/emucore/Cart0840.cxx	/^uInt8* Cartridge0840::getImage(int& size)$/
+getInt	./src/emucore/Deserializer.cxx	/^int Deserializer::getInt(void)$/
+getMD5	./src/emucore/PropsSet.cxx	/^void PropertiesSet::getMD5(const string& md5, Prop/
+getNodeForPath	./src/os_dependent/FSNodePOSIX.cxx	/^AbstractFilesystemNode* FilesystemNode::getNodeFor/
+getPageAccess	./src/emucore/m6502/src/System.cxx	/^const System::PageAccess& System::getPageAccess(uI/
+getParent	./src/emucore/FSNode.cxx	/^FilesystemNode FilesystemNode::getParent() const$/
+getROMInfo	./src/emucore/OSystem.cxx	/^string OSystem::getROMInfo(const string& romfile)$/
+getRoot	./src/os_dependent/FSNodePOSIX.cxx	/^AbstractFilesystemNode* FilesystemNode::getRoot()$/
+getSamples	./src/emucore/SpeakJet.cxx	/^uInt8 *SpeakJet::getSamples(int *count) {$/
+getString	./src/emucore/Deserializer.cxx	/^string Deserializer::getString(void)$/
+getTicks	./src/os_dependent/OSystemUNIX.cxx	/^uInt32 OSystemUNIX::getTicks() {$/
+greyOutFrame	./src/emucore/TIA.cxx	/^void TIA::greyOutFrame()$/
+hasParent	./src/emucore/FSNode.cxx	/^bool FilesystemNode::hasParent() const$/
+if	./src/emucore/OSystem.cxx	/^      if(ufo.uncompressed_size <= 0)$/
+incbank	./src/emucore/CartMB.cxx	/^void CartridgeMB::incbank()$/
+initializeAudio	./src/emucore/Console.cxx	/^void Console::initializeAudio()$/
+initializeVideo	./src/emucore/Console.cxx	/^void Console::initializeVideo(bool full)$/
+input	./src/emucore/MD5.cxx	/^\/\/ Encodes input (UINT4) into output (unsigned c/
+insert	./src/emucore/PropsSet.cxx	/^void PropertiesSet::insert(const Properties& prope/
+install	./src/emucore/Cart0840.cxx	/^void Cartridge0840::install(System& system)$/
+interpolate	./src/emucore/rsynth/holmes.c	/^interpolate(char *w, char *p, slope_t * s, slope_t/
+isProbablySC	./src/emucore/Cart.cxx	/^bool Cartridge::isProbablySC(const uInt8* image, u/
+iterator	./src/common/Array.hxx	/^    typedef T *iterator;$/
+lastPathComponent	./src/os_dependent/FSNodePOSIX.cxx	/^static const char* lastPathComponent(const string&/
+linear	./src/emucore/rsynth/holmes.c	/^linear(float a, float b, long t, long d)$/
+listDir	./src/os_dependent/FSNodePOSIX.cxx	/^FSList POSIXFilesystemNode::listDir(ListMode mode)/
+load	./src/common/SoundNull.cxx	/^bool SoundNull::load(Deserializer& in)$/
+loadCommandLine	./src/emucore/Settings.cxx	/^string Settings::loadCommandLine(int argc, char** /
+loadConfig	./src/emucore/Settings.cxx	/^void Settings::loadConfig(const char* config_file)/
+loadRecording	./src/emucore/EventStreamer.cxx	/^bool EventStreamer::loadRecording()$/
+loadState	./src/emucore/m6502/src/System.cxx	/^bool System::loadState(const string& md5sum, Deser/
+lowpass_ptr	./src/emucore/rsynth/opsynth.c	/^} lowpass_t, *lowpass_ptr;$/
+makeDir	./src/os_dependent/FSNodePOSIX.cxx	/^bool AbstractFilesystemNode::makeDir(const string&/
+myConsole	./src/emucore/M6532.cxx	/^    : myConsole(c.myConsole)$/
+myType	./src/emucore/Control.cxx	/^    myType(c.myType)$/
+name	./src/emucore/Cart0840.cxx	/^const char* Cartridge0840::name() const$/
+numRects	./src/common/RectList.cxx	/^Uint32 RectList::numRects()$/
+openROM	./src/emucore/OSystem.cxx	/^bool OSystem::openROM(const string& rom, string& m/
+outputFrequency	./src/emucore/TIASnd.cxx	/^void TIASound::outputFrequency(Int32 freq)$/
+parent	./src/os_dependent/FSNodePOSIX.cxx	/^AbstractFilesystemNode *POSIXFilesystemNode::paren/
+patch	./src/emucore/Cart0840.cxx	/^bool Cartridge0840::patch(uInt16 address, uInt8 va/
+peek	./src/emucore/Cart0840.cxx	/^uInt8 Cartridge0840::peek(uInt16 address)$/
+phone_to_elm	./src/emucore/rsynth/phtoelm.c	/^phone_to_elm(rsynth_t * rsynth, int n, char *phone/
+pitch_sync	./src/emucore/rsynth/opsynth.c	/^pitch_sync(rsynth_t * rsynth)$/
+poke	./src/emucore/Cart0840.cxx	/^void Cartridge0840::poke(uInt16 address, uInt8 val/
+pollEvent	./src/emucore/EventStreamer.cxx	/^bool EventStreamer::pollEvent(int& type, int& valu/
+process	./src/emucore/TIASnd.cxx	/^void TIASound::process(uInt8* buffer, uInt32 sampl/
+putBool	./src/emucore/Serializer.cxx	/^void Serializer::putBool(bool b)$/
+putInt	./src/emucore/Serializer.cxx	/^void Serializer::putInt(int value)$/
+putString	./src/emucore/Serializer.cxx	/^void Serializer::putString(const string& str)$/
+randInRange	./doc/examples/RLGlueAgent.c	/^int randInRange(int max){$/
+read	./src/emucore/AtariVox.cxx	/^bool AtariVox::read(DigitalPin pin)$/
+rects	./src/common/RectList.cxx	/^SDL_Rect* RectList::rects()$/
+removeMD5	./src/emucore/PropsSet.cxx	/^void PropertiesSet::removeMD5(const string& md5)$/
+reset	./src/emucore/Cart0840.cxx	/^void Cartridge0840::reset()$/
+resetCycles	./src/emucore/m6502/src/System.cxx	/^void System::resetCycles()$/
+resonator	./src/emucore/rsynth/opsynth.c	/^resonator(resonator_ptr r, char *name, float input/
+resonator_ptr	./src/emucore/rsynth/opsynth.c	/^} resonator_t, *resonator_ptr;$/
+rsynth_filter	./src/emucore/rsynth/opsynth.c	/^rsynth_filter(rsynth_t * rsynth, float voice, floa/
+rsynth_flush	./src/emucore/rsynth/opsynth.c	/^rsynth_flush(rsynth_t * rsynth, unsigned nsamp)$/
+rsynth_frame	./src/emucore/rsynth/opsynth.c	/^rsynth_frame(rsynth_t * rsynth, float F0Hz, float /
+rsynth_init	./src/emucore/rsynth/opsynth.c	/^rsynth_init(long sr, float ms_per_frame, speaker_t/
+rsynth_interpolate	./src/emucore/rsynth/holmes.c	/^rsynth_interpolate(rsynth_t * rsynth, $/
+rsynth_pho	./src/emucore/rsynth/phtoelm.c	/^rsynth_pho(rsynth_t * rsynth, const char *path, in/
+rsynth_phones	./src/emucore/rsynth/phtoelm.c	/^rsynth_phones(rsynth_t * rsynth, char *phone, int /
+rsynth_private	./src/emucore/rsynth/opsynth.c	/^struct rsynth_private {$/
+rsynth_speaker	./src/emucore/rsynth/elements.c	/^rsynth_speaker(float F0Hz, float gain, Elm_t * e)$/
+rsynth_term	./src/emucore/rsynth/phtoelm.c	/^rsynth_term(rsynth_t * rsynth)$/
+runEpisode	./doc/examples/RLGlueExperiment.c	/^void runEpisode(int stepLimit) {        $/
+save	./src/common/SoundNull.cxx	/^bool SoundNull::save(Serializer& out)$/
+saveState	./src/emucore/m6502/src/System.cxx	/^bool System::saveState(const string& md5sum, Seria/
+save_sample	./src/emucore/SpeakJet.cxx	/^void *SpeakJet::save_sample(void *user_data,$/
+searchForBytes	./src/emucore/Cart.cxx	/^bool Cartridge::searchForBytes(const uInt8* image,/
+segmentOne	./src/emucore/CartE0.cxx	/^void CartridgeE0::segmentOne(uInt16 slice)$/
+segmentTwo	./src/emucore/CartE0.cxx	/^void CartridgeE0::segmentTwo(uInt16 slice)$/
+segmentZero	./src/emucore/CartE0.cxx	/^void CartridgeE0::segmentZero(uInt16 slice)$/
+set	./src/emucore/Event.cxx	/^void Event::set(Type type, Int32 value)$/
+setBaseDir	./src/emucore/OSystem.cxx	/^void OSystem::setBaseDir(const string& basedir)$/
+setConfigPaths	./src/emucore/OSystem.cxx	/^void OSystem::setConfigPaths()$/
+setFramerate	./src/emucore/OSystem.cxx	/^void OSystem::setFramerate(uInt32 framerate)$/
+setPageAccess	./src/emucore/m6502/src/System.cxx	/^void System::setPageAccess(uInt16 page, const Page/
+setProperties	./src/emucore/Console.cxx	/^void Console::setProperties(const Properties& prop/
+setSystem	./src/emucore/AtariVox.cxx	/^void AtariVox::setSystem(System *system) {$/
+set_cascade	./src/emucore/rsynth/opsynth.c	/^set_cascade(rsynth_t * rsynth)$/
+set_pole_fbw	./src/emucore/rsynth/opsynth.c	/^set_pole_fbw(long sr, float f, float bw, resonator/
+set_pole_fbwg	./src/emucore/rsynth/opsynth.c	/^set_pole_fbwg(long sr, float f, float bw, resonato/
+set_trans	./src/emucore/rsynth/holmes.c	/^set_trans(slope_t * t, int i, Elm_ptr a, Elm_ptr b/
+set_zero_fbw	./src/emucore/rsynth/opsynth.c	/^set_zero_fbw(long sr, float f, float bw, resonator/
+setup_frame	./src/emucore/rsynth/opsynth.c	/^setup_frame(rsynth_t * rsynth)$/
+shiftIn	./src/emucore/AtariVox.cxx	/^void AtariVox::shiftIn(bool value)$/
+slope_t	./src/emucore/rsynth/holmes.c	/^} slope_t;$/
+spawnThread	./src/emucore/SpeakJet.cxx	/^void SpeakJet::spawnThread()$/
+speak	./src/emucore/SpeakJet.cxx	/^void SpeakJet::speak()$/
+start	./src/common/RectList.cxx	/^void RectList::start()$/
+startRecording	./src/emucore/EventStreamer.cxx	/^bool EventStreamer::startRecording()$/
+stopRecording	./src/emucore/EventStreamer.cxx	/^bool EventStreamer::stopRecording()$/
+strcmpcasenosensitive_internal	./src/emucore/unzip.c	/^local int strcmpcasenosensitive_internal (const ch/
+systemCyclesReset	./src/emucore/CartAR.cxx	/^void CartridgeAR::systemCyclesReset()$/
+thread	./src/emucore/SpeakJet.cxx	/^int SpeakJet::thread(void *data) {$/
+tiaFrequency	./src/emucore/TIASnd.cxx	/^void TIASound::tiaFrequency(Int32 freq)$/
+toAscii	./src/os_dependent/FSNodeWin32.cxx	/^char* WindowsFilesystemNode::toAscii(TCHAR* x)$/
+toUnicode	./src/os_dependent/FSNodeWin32.cxx	/^TCHAR* WindowsFilesystemNode::toUnicode(char* x)$/
+togglePhosphor	./src/emucore/Console.cxx	/^void Console::togglePhosphor()$/
+trie_free	./src/emucore/rsynth/trie.c	/^trie_free(trie_ptr * r, void (*func) (void *))$/
+trie_insert	./src/emucore/rsynth/trie.c	/^trie_insert(trie_ptr * r, char *s, void *value)$/
+trie_lookup	./src/emucore/rsynth/trie.c	/^trie_lookup(trie_ptr * r, char **sp)$/
+trie_s	./src/emucore/rsynth/trie.c	/^struct trie_s {$/
+type	./src/emucore/Control.cxx	/^const Controller::Type Controller::type()$/
+unzClose	./src/emucore/unzip.c	/^extern int ZEXPORT unzClose (unzFile file)$/
+unzCloseCurrentFile	./src/emucore/unzip.c	/^extern int ZEXPORT unzCloseCurrentFile (unzFile fi/
+unzGetGlobalInfo	./src/emucore/unzip.c	/^extern int ZEXPORT unzGetGlobalInfo (unzFile file,/
+unzGoToFirstFile	./src/emucore/unzip.c	/^extern int ZEXPORT unzGoToFirstFile (unzFile file)/
+unzGoToNextFile	./src/emucore/unzip.c	/^extern int ZEXPORT unzGoToNextFile (unzFile file)$/
+unzOpen	./src/emucore/unzip.c	/^extern unzFile ZEXPORT unzOpen(const char *path)$/
+unzOpenCurrentFile	./src/emucore/unzip.c	/^extern int ZEXPORT unzOpenCurrentFile (unzFile fil/
+unz_file_info_internal	./src/emucore/unzip.c	/^} unz_file_info_internal;$/
+unz_s	./src/emucore/unzip.c	/^} unz_s;$/
+unzeof	./src/emucore/unzip.c	/^extern int ZEXPORT unzeof (unzFile file)$/
+unzlocal_DosDateToTmuDate	./src/emucore/unzip.c	/^local void unzlocal_DosDateToTmuDate (uLong ulDosD/
+unzlocal_SearchCentralDir	./src/emucore/unzip.c	/^local uLong unzlocal_SearchCentralDir(FILE* fin)$/
+unzlocal_getByte	./src/emucore/unzip.c	/^local int unzlocal_getByte(FILE* fin, int* pi)$/
+unzlocal_getLong	./src/emucore/unzip.c	/^local int unzlocal_getLong (FILE* fin,uLong* pX)$/
+unzlocal_getShort	./src/emucore/unzip.c	/^local int unzlocal_getShort (FILE* fin,uLong* pX)$/
+unztell	./src/emucore/unzip.c	/^extern z_off_t ZEXPORT unztell (unzFile file)$/
+validatePath	./src/os_dependent/FSNodePOSIX.cxx	/^static string validatePath(const string& p)$/
+volume	./src/emucore/TIASnd.cxx	/^void TIASound::volume(uInt32 percent)$/
+waitHorizontalSync	./src/emucore/TIA.cxx	/^inline void TIA::waitHorizontalSync()$/
+wrap	./src/emucore/FSNode.cxx	/^FilesystemNode AbstractFilesystemNode::wrap(Abstra/
+write	./src/emucore/AtariVox.cxx	/^void AtariVox::write(DigitalPin pin, bool value)$/
+xlatePhoneme	./src/emucore/SpeakJet.cxx	/^const char *SpeakJet::xlatePhoneme(uInt8 code)$/
